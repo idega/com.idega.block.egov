@@ -8,7 +8,7 @@
   
   <groupId>com.idega.block.egov</groupId>
   <artifactId>com.idega.block.egov</artifactId>
-  <version>4.0.1-SNAPSHOT</version>
+  <version>4.0.1</version>
   <packaging>pom</packaging>
   <organization>
     <name>idega software</name>
@@ -48,6 +48,7 @@
   <scm>
     <connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
     <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection>
+    <tag>com_idega_block_egov_super-4_0_1</tag>
   </scm>
 
   <dependencyManagement>
@@ -55,145 +56,145 @@
 		<dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>com.idega.block.school</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.block.family</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.accounting</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.afterschoolcare</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.afterschoolcare.rvk</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.application</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.cases</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.childcare</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.citizen</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>com.idega.company</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.course</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.fsk</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.message</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.musicschool</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.nest</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.school</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.mentor</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.mentor.vefthjonusta</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.block.pki</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.msi</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.block.nationalregister</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.member</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.propertytax</artifactId>
-  		  <version>4.0.1-SNAPSHOT</version>
+  		  <version>4.0.1</version>
 	      <type>jar</type>
 	    </dependency>
 	</dependencies>
