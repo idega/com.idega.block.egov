@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.cvs.core.cvsnature">
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/com.idega.block.school,com.idega.block.school"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/com.idega.company,com.idega.company"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.block.family,is.idega.block.family"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.block.nationalregister,is.idega.block.nationalregister"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.block.pki,is.idega.block.pki"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov,is.idega.idegaweb.egov"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.accounting,is.idega.idegaweb.egov.accounting"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.afterschoolcare,is.idega.idegaweb.egov.afterschoolcare"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.afterschoolcare.rvk,is.idega.idegaweb.egov.afterschoolcare.rvk"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.application,is.idega.idegaweb.egov.application"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.cases,is.idega.idegaweb.egov.cases"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.childcare,is.idega.idegaweb.egov.childcare"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.citizen,is.idega.idegaweb.egov.citizen"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.course,is.idega.idegaweb.egov.course"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.fsk,is.idega.idegaweb.egov.fsk"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.message,is.idega.idegaweb.egov.message"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.musicschool,is.idega.idegaweb.egov.musicschool"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.nest,is.idega.idegaweb.egov.nest"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.propertytax,is.idega.idegaweb.egov.propertytax"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.school,is.idega.idegaweb.egov.school"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.member,is.idega.idegaweb.member"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.msi,is.idega.idegaweb.msi"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.mentor,is.mentor"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.mentor.vefthjonusta,is.mentor.vefthjonusta"/>
+</provider>
+</psf>
