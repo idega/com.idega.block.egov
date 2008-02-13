@@ -3,7 +3,7 @@
   <parent>
   	<groupId>com.idega.block.addon</groupId>
   	<artifactId>com.idega.block.addon</artifactId>
-  	<version>4.0.2</version>
+  	<version>4.0.3-SNAPSHOT</version>
   </parent>  
   
   <groupId>com.idega.block.egov</groupId>
@@ -42,10 +42,15 @@
 	<module>../is.idega.idegaweb.member</module>
 	<module>../is.idega.idegaweb.egov.propertytax</module>
 	<module>../is.idega.idegaweb.egov.course</module>
+	<module>../is.idega.idegaweb.egov.bpm</module>
 	
   </modules>
   
   <scm>
+  	<!--
+    <connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
+    <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection> 
+     -->
     <connection>scm:cvs:ext:civilis@code.idega.com:/idega/cvs:com.idega.block.egov/com.idega.block.egov/</connection>
     <developerConnection>scm:cvs:ext:civilis@code.idega.com:/idega/cvs:com.idega.block.egov/com.idega.block.egov/</developerConnection>
   </scm>
@@ -193,6 +198,12 @@
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.propertytax</artifactId>
+  		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>is.idega.idegaweb.egov.bpm</artifactId>
   		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
