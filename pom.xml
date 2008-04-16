@@ -27,6 +27,7 @@
 	<module>../is.idega.idegaweb.egov.afterschoolcare.rvk</module>
 	<module>../is.idega.idegaweb.egov.application</module>
 	<module>../is.idega.idegaweb.egov.cases</module>
+	<module>../is.idega.idegaweb.egov.cases.focal</module>
 	<module>../is.idega.idegaweb.egov.childcare</module>
 	<module>../is.idega.idegaweb.egov.citizen</module>
 	<module>../is.idega.idegaweb.egov.fsk</module>
@@ -42,7 +43,9 @@
 	<module>../is.idega.idegaweb.member</module>
 	<module>../is.idega.idegaweb.egov.propertytax</module>
 	<module>../is.idega.idegaweb.egov.course</module>
+	<module>../is.idega.idegaweb.egov.course.weighers</module>
 	<module>../is.idega.idegaweb.egov.bpm</module>
+	<module>../is.idega.nest.rafverk</module>
 	
   </modules>
   
@@ -106,6 +109,12 @@
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
+	    	<groupId>com.idega.block.egov</groupId>
+	    	<artifactId>is.idega.idegaweb.egov.cases.focal</artifactId>
+	    	<version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.childcare</artifactId>
   		  <version>4.0.2-SNAPSHOT</version>
@@ -126,6 +135,12 @@
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.course</artifactId>
+  		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>is.idega.idegaweb.egov.course.weighers</artifactId>
   		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
@@ -204,6 +219,12 @@
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.bpm</artifactId>
+  		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>is.idega.nest.rafverk</artifactId>
   		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>

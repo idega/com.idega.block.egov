@@ -12,6 +12,7 @@
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.afterschoolcare.rvk,is.idega.idegaweb.egov.afterschoolcare.rvk"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.application,is.idega.idegaweb.egov.application"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.cases,is.idega.idegaweb.egov.cases"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.cases.focal,is.idega.idegaweb.egov.cases.focal"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.childcare,is.idega.idegaweb.egov.childcare"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.citizen,is.idega.idegaweb.egov.citizen"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.course,is.idega.idegaweb.egov.course"/>
