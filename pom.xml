@@ -46,6 +46,7 @@
 	<module>../is.idega.idegaweb.egov.course.weighers</module>
 	<module>../is.idega.idegaweb.egov.bpm</module>
 	<module>../is.idega.nest.rafverk</module>
+	<module>../is.idega.idegaweb.egov.xformscase</module>
 	
   </modules>
   
@@ -226,6 +227,12 @@
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.nest.rafverk</artifactId>
   		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+		  <groupId>com.idega.block.egov</groupId>
+		  <artifactId>is.idega.idegaweb.egov.xformscase</artifactId>
+		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
 	</dependencies>
