@@ -26,5 +26,6 @@
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.msi,is.idega.idegaweb.msi"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.mentor,is.mentor"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.mentor.vefthjonusta,is.mentor.vefthjonusta"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.xformscase,is.idega.idegaweb.egov.xformscase"/>
 </provider>
 </psf>
