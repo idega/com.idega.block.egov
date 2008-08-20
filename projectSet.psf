@@ -28,5 +28,9 @@
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.mentor,is.mentor"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.mentor.vefthjonusta,is.mentor.vefthjonusta"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.xformscase,is.idega.idegaweb.egov.xformscase"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.childcare.rvk,is.idega.idegaweb.egov.childcare.rvk"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.schoolmeal,is.idega.idegaweb.egov.schoolmeal"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.schoolmeal.rvk,is.idega.idegaweb.egov.schoolmeal.rvk"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.banking,is.banking"/>
 </provider>
 </psf>
