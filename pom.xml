@@ -54,7 +54,7 @@
 	<module>../is.idega.idegaweb.egov.schoolmeal.rvk</module>
 	<module>../is.idega.idegaweb.egov.childcare.rvk</module>
 	<module>../is.banking</module>
-	
+	<module>../com.idega.ascertia</module>
   </modules>
   
   <scm>
