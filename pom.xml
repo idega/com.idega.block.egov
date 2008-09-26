@@ -18,42 +18,46 @@
   <description>Parent of all com.idega.block.egov group modules</description>
   
   <modules>
-	<module>../com.idega.block.school</module>
-	<module>../com.idega.company</module>
-	<module>../is.idega.block.family</module>
 	<module>../is.idega.idegaweb.egov</module>
 	<module>../is.idega.idegaweb.egov.accounting</module>
 	<module>../is.idega.idegaweb.egov.afterschoolcare</module>
 	<module>../is.idega.idegaweb.egov.afterschoolcare.rvk</module>
 	<module>../is.idega.idegaweb.egov.application</module>
+	<module>../is.idega.idegaweb.egov.bpm</module>
 	<module>../is.idega.idegaweb.egov.cases</module>
 	<module>../is.idega.idegaweb.egov.cases.focal</module>
 	<module>../is.idega.idegaweb.egov.cases.rvk</module>
 	<module>../is.idega.idegaweb.egov.childcare</module>
+	<module>../is.idega.idegaweb.egov.childcare.rvk</module>
 	<module>../is.idega.idegaweb.egov.citizen</module>
-	<module>../is.idega.idegaweb.egov.fsk</module>
+	<module>../is.idega.idegaweb.egov.course</module>
+	<module>../is.idega.idegaweb.egov.course.weighers</module>
 	<module>../is.idega.idegaweb.egov.company</module>
+	<module>../is.idega.idegaweb.egov.finances</module>
+	<module>../is.idega.idegaweb.egov.fsk</module>
+	<module>../is.idega.idegaweb.egov.impra</module>
+	<module>../is.idega.idegaweb.egov.iptv</module>
 	<module>../is.idega.idegaweb.egov.message</module>
 	<module>../is.idega.idegaweb.egov.musicschool</module>
 	<module>../is.idega.idegaweb.egov.nest</module>
-	<module>../is.idega.idegaweb.egov.impra</module>
-	<module>../is.idega.idegaweb.egov.school</module>
-	<module>../is.mentor</module>
-	<module>../is.mentor.vefthjonusta</module>
-	<module>../is.idega.block.pki</module>
-	<module>../is.idega.idegaweb.msi</module>
-	<module>../is.idega.block.nationalregister</module>
-	<module>../is.idega.idegaweb.member</module>
 	<module>../is.idega.idegaweb.egov.propertytax</module>
-	<module>../is.idega.idegaweb.egov.course</module>
-	<module>../is.idega.idegaweb.egov.course.weighers</module>
-	<module>../is.idega.idegaweb.egov.bpm</module>
-	<module>../is.idega.nest.rafverk</module>
-	<module>../is.idega.idegaweb.egov.xformscase</module>
+	<module>../is.idega.idegaweb.egov.school</module>
 	<module>../is.idega.idegaweb.egov.schoolmeal</module>
 	<module>../is.idega.idegaweb.egov.schoolmeal.rvk</module>
-	<module>../is.idega.idegaweb.egov.childcare.rvk</module>
+	<module>../is.idega.idegaweb.egov.serviceoffer</module>
+	<module>../is.idega.idegaweb.egov.xformscase</module>
+	<module>../is.mentor</module>
+	<module>../is.nemanet</module>
 	<module>../is.banking</module>
+	<module>../is.mentor.vefthjonusta</module>
+	<module>../is.idega.block.pki</module>
+	<module>../is.idega.block.family</module>
+	<module>../is.idega.block.nationalregister</module>
+	<module>../com.idega.block.school</module>
+	<module>../is.idega.idegaweb.msi</module>
+	<module>../is.idega.idegaweb.member</module>
+	<module>../is.idega.nest.rafverk</module>
+	<module>../com.idega.company</module>
 	<module>../com.idega.ascertia</module>
   </modules>
   
@@ -202,6 +206,12 @@
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>is.nemanet</artifactId>
+  		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.mentor.vefthjonusta</artifactId>
   		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
@@ -281,6 +291,24 @@
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.banking</artifactId>
+  		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>is.idega.idegaweb.egov.iptv</artifactId>
+  		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>is.idega.idegaweb.egov.serviceoffer</artifactId>
+  		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>is.idega.idegaweb.egov.finances</artifactId>
   		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
