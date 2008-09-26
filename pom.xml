@@ -58,7 +58,7 @@
 	<module>../is.idega.idegaweb.member</module>
 	<module>../is.idega.nest.rafverk</module>
 	<module>../com.idega.company</module>
-	<module>../com.idega.ascertia</module>
+	
   </modules>
   
   <scm>
@@ -312,12 +312,7 @@
   		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>com.idega.ascertia</artifactId>
-  		  <version>4.0.2-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
+	    
 	</dependencies>
   </dependencyManagement>
 </project>
