@@ -11,6 +11,7 @@
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.afterschoolcare,is.idega.idegaweb.egov.afterschoolcare"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.afterschoolcare.rvk,is.idega.idegaweb.egov.afterschoolcare.rvk"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.application,is.idega.idegaweb.egov.application"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.blueprints,is.idega.idegaweb.egov.blueprints"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.cases,is.idega.idegaweb.egov.cases"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.cases.focal,is.idega.idegaweb.egov.cases.focal"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,com.idega.block.egov/is.idega.idegaweb.egov.childcare,is.idega.idegaweb.egov.childcare"/>
