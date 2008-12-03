@@ -41,6 +41,7 @@
 	<module>../is.idega.idegaweb.egov.message</module>
 	<module>../is.idega.idegaweb.egov.musicschool</module>
 	<module>../is.idega.idegaweb.egov.nest</module>
+	<module>../is.idega.idegaweb.egov.parking</module>
 	<module>../is.idega.idegaweb.egov.propertytax</module>
 	<module>../is.idega.idegaweb.egov.school</module>
 	<module>../is.idega.idegaweb.egov.schoolmeal</module>
@@ -193,6 +194,12 @@
   		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
+	    <dependency>
+          <groupId>com.idega.block.egov</groupId>
+          <artifactId>is.idega.idegaweb.egov.parking</artifactId>
+          <version>4.0.2-SNAPSHOT</version>
+          <type>jar</type>
+        </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.impra</artifactId>
