@@ -60,6 +60,7 @@
 	<module>../is.idega.idegaweb.member</module>
 	<module>../is.idega.nest.rafverk</module>
 	<module>../com.idega.company</module>
+	<module>../is.idega.webservice</module>
 	
   </modules>
   
@@ -323,6 +324,12 @@
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.finances</artifactId>
+  		  <version>4.0.2-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>is.idega.webservice</artifactId>
   		  <version>4.0.2-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
