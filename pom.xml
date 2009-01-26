@@ -48,7 +48,6 @@
 	<module>../is.idega.idegaweb.egov.schoolmeal.rvk</module>
 	<module>../is.idega.idegaweb.egov.serviceoffer</module>
 	<module>../is.idega.idegaweb.egov.xformscase</module>
-	<module>../is.idega.webservice</module>
 	<module>../is.mentor</module>
 	<module>../is.nemanet</module>
 	<module>../is.banking</module>
