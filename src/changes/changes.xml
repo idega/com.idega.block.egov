@@ -1,0 +1,15 @@
+<document>
+  <properties>
+    <title/>
+    <author email="tryggvi@idega.is" >
+      <name/>
+    </author>
+  </properties>
+  <body>
+    <release version="4.1.0" date="2009-01-27" description="First 4.1.x release">
+      <action dev="tryggvil" type="add">
+        New stable 4.1 line
+      </action>
+    </release>
+  </body>
+</document>
