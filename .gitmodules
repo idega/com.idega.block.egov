@@ -136,3 +136,6 @@
 [submodule "is.idega.block.agresso"]
 	path = is.idega.block.agresso
 	url = git@github.com:idega/is.idega.block.agresso.git
+[submodule "is.nemanet"]
+	path = is.nemanet
+	url = git@github.com:idega/is.nemanet.git
