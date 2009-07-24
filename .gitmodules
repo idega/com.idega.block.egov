@@ -55,9 +55,6 @@
 [submodule "is.idega.idegaweb.egov.company"]
 	path = is.idega.idegaweb.egov.company
 	url = git@github.com:idega/is.idega.idegaweb.egov.company.git
-[submodule "com.idega.block.egov"]
-	path = com.idega.block.egov
-	url = git@github.com:idega/com.idega.block.egov.git
 [submodule "is.idega.idegaweb.egov.xformscase"]
 	path = is.idega.idegaweb.egov.xformscase
 	url = git@github.com:idega/is.idega.idegaweb.egov.xformscase.git
