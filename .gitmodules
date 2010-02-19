@@ -136,3 +136,6 @@
 [submodule "is.nemanet"]
 	path = is.nemanet
 	url = git@github.com:idega/is.nemanet.git
+[submodule "is.idega.idegaweb.egov.childcare.linna"]
+	path = is.idega.idegaweb.egov.childcare.linna
+	url = git@github.com:idega/is.idega.idegaweb.egov.childcare.linna.git
