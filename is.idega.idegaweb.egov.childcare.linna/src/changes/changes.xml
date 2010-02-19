@@ -1,0 +1,25 @@
+<document xmlns="http://maven.apache.org/changes/1.0.0">
+	<properties>
+		<title>Childcare rvk changes</title>
+		<author email="palli@idega.com">
+			Pall Helgason
+		</author>
+	</properties>
+	<body>	
+		<release version="1.0.3" date="2008-09-04">
+			<action dev="laddi" type="update">
+				Added connection to Marimo Web Service.
+			</action>
+		</release>
+		<release version="1.0.2" date="2008-09-01">
+			<action dev="laddi" type="update">
+				Declaring new version of block.
+			</action>
+		</release>
+		<release version="1.0.1" date="2008-08-16">
+			<action dev="palli" type="update">
+				Declaring new version of block.
+			</action>
+		</release>
+	</body>
+</document>
