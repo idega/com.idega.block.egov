@@ -19,9 +19,6 @@
 [submodule "is.idega.idegaweb.egov.childcare.rvk"]
 	path = is.idega.idegaweb.egov.childcare.rvk
 	url = git@github.com:idega/is.idega.idegaweb.egov.childcare.rvk.git
-[submodule "is.idega.idegaweb.egov.childcare.linna"]
-        path = is.idega.idegaweb.egov.childcare.linna
-        url = git@github.com:idega/is.idega.idegaweb.egov.childcare.linna.git
 [submodule "is.idega.idegaweb.egov.iptv"]
 	path = is.idega.idegaweb.egov.iptv
 	url = git@github.com:idega/is.idega.idegaweb.egov.iptv.git
