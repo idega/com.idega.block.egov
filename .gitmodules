@@ -142,3 +142,6 @@
 [submodule "is.idega.idegaweb.egov.course.adult"]
 	path = is.idega.idegaweb.egov.course.adult
 	url = git@github.com:idega/is.idega.idegaweb.egov.course.adult.git
+[submodule "is.idega.idegaweb.egov.sweatshop"]
+	path = is.idega.idegaweb.egov.sweatshop
+	url = git@github.com:idega/is.idega.idegaweb.egov.sweatshop.git
