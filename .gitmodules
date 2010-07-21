@@ -145,3 +145,6 @@
 [submodule "is.idega.idegaweb.egov.sweatshop"]
 	path = is.idega.idegaweb.egov.sweatshop
 	url = git@github.com:idega/is.idega.idegaweb.egov.sweatshop.git
+[submodule "is.idega.idegaweb.egov.grub"]
+	path = is.idega.idegaweb.egov.grub
+	url = git@github.com:idega/is.idega.idegaweb.egov.grub.git
