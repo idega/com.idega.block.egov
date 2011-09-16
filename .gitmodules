@@ -151,3 +151,6 @@
 [submodule "is.idega.idegaweb.egov.gumbo"]
 	path = is.idega.idegaweb.egov.gumbo
 	url = git@github.com:idega/is.idega.idegaweb.egov.gumbo.git
+[submodule "com.idega.volunteer"]
+	path = com.idega.volunteer
+	url = git@github.com:idega/com.idega.volunteer.git

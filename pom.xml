@@ -38,7 +38,7 @@
 	<module>is.idega.idegaweb.egov.company</module>
 	<module>is.idega.idegaweb.egov.finances</module>
 	<module>is.idega.idegaweb.egov.fsk</module>
-        <module>is.idega.idegaweb.egov.gumbo</module>
+    <module>is.idega.idegaweb.egov.gumbo</module>
 	<module>is.idega.idegaweb.egov.impra</module>
 	<module>is.idega.idegaweb.egov.iptv</module>
 	<module>is.idega.idegaweb.egov.message</module>
@@ -68,6 +68,7 @@
     <module>is.idega.block.agresso</module>
     <module>is.idega.idegaweb.egov.tenders</module>
     <module>is.idega.idegaweb.egov.sweatshop</module>
+    <module>com.idega.volunteer</module>
   </modules>
   
   <scm>
@@ -383,6 +384,12 @@
                 <version>4.1.3-SNAPSHOT</version>
                 <type>jar</type>
         </dependency>
+        <dependency>
+      		<groupId>com.idega.block.egov</groupId>
+      		<artifactId>com.idega.volunteer</artifactId>
+      		<version>4.1.3-SNAPSHOT</version>
+      		<type>jar</type>
+    	</dependency>
 	</dependencies>
   </dependencyManagement>
 
