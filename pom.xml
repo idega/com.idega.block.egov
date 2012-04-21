@@ -69,6 +69,7 @@
     <module>is.idega.idegaweb.egov.tenders</module>
     <module>is.idega.idegaweb.egov.sweatshop</module>
     <module>com.idega.volunteer</module>
+    <module>com.idega.municipality</module>
   </modules>
   
   <scm>
@@ -390,6 +391,11 @@
       		<version>4.1.3-SNAPSHOT</version>
       		<type>jar</type>
     	</dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+	      <artifactId>com.idega.municipality</artifactId>
+	      <version>4.1.3-SNAPSHOT</version>
+	    </dependency>
 	</dependencies>
   </dependencyManagement>
 
