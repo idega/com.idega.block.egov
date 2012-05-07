@@ -157,3 +157,6 @@
 [submodule "com.idega.municipality"]
 	path = com.idega.municipality
 	url = git@github.com:idega/com.idega.municipality.git
+[submodule "com.idega.egov"]
+	path = com.idega.egov
+	url = git@github.com:idega/com.idega.egov.git
