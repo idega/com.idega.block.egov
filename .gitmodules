@@ -4,39 +4,18 @@
 [submodule "is.idega.idegaweb.egov.cases.focal"]
 	path = is.idega.idegaweb.egov.cases.focal
 	url = git@github.com:idega/is.idega.idegaweb.egov.cases.focal.git
-[submodule "is.idega.idegaweb.egov.afterschoolcare.rvk"]
-	path = is.idega.idegaweb.egov.afterschoolcare.rvk
-	url = git@github.com:idega/is.idega.idegaweb.egov.afterschoolcare.rvk.git
 [submodule "com.idega.block.school"]
 	path = com.idega.block.school
 	url = git@github.com:idega/com.idega.block.school.git
-[submodule "is.idega.idegaweb.egov.musicschool"]
-	path = is.idega.idegaweb.egov.musicschool
-	url = git@github.com:idega/is.idega.idegaweb.egov.musicschool.git
 [submodule "is.idega.idegaweb.egov.cases.rvk"]
 	path = is.idega.idegaweb.egov.cases.rvk
 	url = git@github.com:idega/is.idega.idegaweb.egov.cases.rvk.git
-[submodule "is.idega.idegaweb.egov.childcare.rvk"]
-	path = is.idega.idegaweb.egov.childcare.rvk
-	url = git@github.com:idega/is.idega.idegaweb.egov.childcare.rvk.git
-[submodule "is.idega.idegaweb.egov.iptv"]
-	path = is.idega.idegaweb.egov.iptv
-	url = git@github.com:idega/is.idega.idegaweb.egov.iptv.git
-[submodule "is.idega.idegaweb.egov.afterschoolcare"]
-	path = is.idega.idegaweb.egov.afterschoolcare
-	url = git@github.com:idega/is.idega.idegaweb.egov.afterschoolcare.git
 [submodule "is.idega.webservice"]
 	path = is.idega.webservice
 	url = git@github.com:idega/is.idega.webservice.git
-[submodule "is.idega.idegaweb.egov.schoolmeal.rvk"]
-	path = is.idega.idegaweb.egov.schoolmeal.rvk
-	url = git@github.com:idega/is.idega.idegaweb.egov.schoolmeal.rvk.git
 [submodule "is.idega.idegaweb.egov.bpm"]
 	path = is.idega.idegaweb.egov.bpm
 	url = git@github.com:idega/is.idega.idegaweb.egov.bpm.git
-[submodule "is.idega.idegaweb.egov.school"]
-	path = is.idega.idegaweb.egov.school
-	url = git@github.com:idega/is.idega.idegaweb.egov.school.git
 [submodule "is.banking"]
 	path = is.banking
 	url = git@github.com:idega/is.banking.git
@@ -55,18 +34,9 @@
 [submodule "is.idega.idegaweb.egov.xformscase"]
 	path = is.idega.idegaweb.egov.xformscase
 	url = git@github.com:idega/is.idega.idegaweb.egov.xformscase.git
-[submodule "is.idega.idegaweb.egov.childcare"]
-	path = is.idega.idegaweb.egov.childcare
-	url = git@github.com:idega/is.idega.idegaweb.egov.childcare.git
 [submodule "is.idega.idegaweb.egov.course"]
 	path = is.idega.idegaweb.egov.course
 	url = git@github.com:idega/is.idega.idegaweb.egov.course.git
-[submodule "is.idega.idegaweb.egov.course.weighers"]
-	path = is.idega.idegaweb.egov.course.weighers
-	url = git@github.com:idega/is.idega.idegaweb.egov.course.weighers.git
-[submodule "is.idega.idegaweb.egov.nest"]
-	path = is.idega.idegaweb.egov.nest
-	url = git@github.com:idega/is.idega.idegaweb.egov.nest.git
 [submodule "is.idega.idegaweb.egov.cases"]
 	path = is.idega.idegaweb.egov.cases
 	url = git@github.com:idega/is.idega.idegaweb.egov.cases.git
@@ -79,36 +49,18 @@
 [submodule "is.idega.idegaweb.egov.citizen"]
 	path = is.idega.idegaweb.egov.citizen
 	url = git@github.com:idega/is.idega.idegaweb.egov.citizen.git
-[submodule "is.idega.idegaweb.egov.impra"]
-	path = is.idega.idegaweb.egov.impra
-	url = git@github.com:idega/is.idega.idegaweb.egov.impra.git
 [submodule "is.idega.idegaweb.egov.message"]
 	path = is.idega.idegaweb.egov.message
 	url = git@github.com:idega/is.idega.idegaweb.egov.message.git
 [submodule "com.idega.company"]
 	path = com.idega.company
 	url = git@github.com:idega/com.idega.company.git
-[submodule "is.idega.block.pki"]
-	path = is.idega.block.pki
-	url = git@github.com:idega/is.idega.block.pki.git
-[submodule "is.mentor.vefthjonusta"]
-	path = is.mentor.vefthjonusta
-	url = git@github.com:idega/is.mentor.vefthjonusta.git
 [submodule "is.idega.block.nationalregister"]
 	path = is.idega.block.nationalregister
 	url = git@github.com:idega/is.idega.block.nationalregister.git
-[submodule "is.idega.idegaweb.egov.tenders"]
-	path = is.idega.idegaweb.egov.tenders
-	url = git@github.com:idega/is.idega.idegaweb.egov.tenders.git
 [submodule "is.idega.idegaweb.msi"]
 	path = is.idega.idegaweb.msi
 	url = git@github.com:idega/is.idega.idegaweb.msi.git
-[submodule "is.idega.idegaweb.egov.propertytax"]
-	path = is.idega.idegaweb.egov.propertytax
-	url = git@github.com:idega/is.idega.idegaweb.egov.propertytax.git
-[submodule "is.idega.idegaweb.egov.blueprints"]
-	path = is.idega.idegaweb.egov.blueprints
-	url = git@github.com:idega/is.idega.idegaweb.egov.blueprints.git
 [submodule "is.idega.idegaweb.egov.fsk"]
 	path = is.idega.idegaweb.egov.fsk
 	url = git@github.com:idega/is.idega.idegaweb.egov.fsk.git
@@ -118,39 +70,12 @@
 [submodule "is.idega.idegaweb.egov.application"]
 	path = is.idega.idegaweb.egov.application
 	url = git@github.com:idega/is.idega.idegaweb.egov.application.git
-[submodule "is.idega.idegaweb.egov.schoolmeal"]
-	path = is.idega.idegaweb.egov.schoolmeal
-	url = git@github.com:idega/is.idega.idegaweb.egov.schoolmeal.git
 [submodule "is.idega.idegaweb.egov"]
 	path = is.idega.idegaweb.egov
 	url = git@github.com:idega/is.idega.idegaweb.egov.git
-[submodule "is.idega.idegaweb.egov.church"]
-	path = is.idega.idegaweb.egov.church
-	url = git@github.com:idega/is.idega.idegaweb.egov.church.git
 [submodule "is.idega.block.agresso"]
 	path = is.idega.block.agresso
 	url = git@github.com:idega/is.idega.block.agresso.git
 [submodule "is.nemanet"]
 	path = is.nemanet
 	url = git@github.com:idega/is.nemanet.git
-[submodule "is.idega.idegaweb.egov.childcare.linna"]
-	path = is.idega.idegaweb.egov.childcare.linna
-	url = git@github.com:idega/is.idega.idegaweb.egov.childcare.linna.git
-[submodule "is.idega.idegaweb.egov.course.adult"]
-	path = is.idega.idegaweb.egov.course.adult
-	url = git@github.com:idega/is.idega.idegaweb.egov.course.adult.git
-[submodule "is.idega.idegaweb.egov.sweatshop"]
-	path = is.idega.idegaweb.egov.sweatshop
-	url = git@github.com:idega/is.idega.idegaweb.egov.sweatshop.git
-[submodule "is.idega.idegaweb.egov.grub"]
-	path = is.idega.idegaweb.egov.grub
-	url = git@github.com:idega/is.idega.idegaweb.egov.grub.git
-[submodule "is.idega.idegaweb.egov.gumbo"]
-	path = is.idega.idegaweb.egov.gumbo
-	url = git@github.com:idega/is.idega.idegaweb.egov.gumbo.git
-[submodule "com.idega.volunteer"]
-	path = com.idega.volunteer
-	url = git@github.com:idega/com.idega.volunteer.git
-[submodule "com.idega.egov"]
-	path = com.idega.egov
-	url = git@github.com:idega/com.idega.egov.git

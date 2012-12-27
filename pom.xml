@@ -20,42 +20,22 @@
   <modules>
 	<module>is.idega.idegaweb.egov</module>
 	<module>is.idega.idegaweb.egov.accounting</module>
-	<module>is.idega.idegaweb.egov.afterschoolcare</module>
-	<module>is.idega.idegaweb.egov.afterschoolcare.rvk</module>
 	<module>is.idega.idegaweb.egov.application</module>
-	<module>is.idega.idegaweb.egov.blueprints</module>
 	<module>is.idega.idegaweb.egov.bpm</module>
 	<module>is.idega.idegaweb.egov.cases</module>
 	<module>is.idega.idegaweb.egov.cases.focal</module>
 	<module>is.idega.idegaweb.egov.cases.rvk</module>
-	<module>is.idega.idegaweb.egov.childcare</module>
-	<module>is.idega.idegaweb.egov.childcare.rvk</module>
-	<module>is.idega.idegaweb.egov.childcare.linna</module>
 	<module>is.idega.idegaweb.egov.citizen</module>
 	<module>is.idega.idegaweb.egov.course</module>
-	<module>is.idega.idegaweb.egov.course.weighers</module>
-	<module>is.idega.idegaweb.egov.course.adult</module>
 	<module>is.idega.idegaweb.egov.company</module>
 	<module>is.idega.idegaweb.egov.finances</module>
 	<module>is.idega.idegaweb.egov.fsk</module>
-    <module>is.idega.idegaweb.egov.gumbo</module>
-	<module>is.idega.idegaweb.egov.impra</module>
-	<module>is.idega.idegaweb.egov.iptv</module>
 	<module>is.idega.idegaweb.egov.message</module>
-	<module>is.idega.idegaweb.egov.musicschool</module>
-	<module>is.idega.idegaweb.egov.nest</module>
-	<module>is.idega.idegaweb.egov.parking</module>
-	<module>is.idega.idegaweb.egov.propertytax</module>
-	<module>is.idega.idegaweb.egov.school</module>
-	<module>is.idega.idegaweb.egov.schoolmeal</module>
-	<module>is.idega.idegaweb.egov.schoolmeal.rvk</module>
 	<module>is.idega.idegaweb.egov.serviceoffer</module>
 	<module>is.idega.idegaweb.egov.xformscase</module>
 	<module>is.mentor</module>
 	<module>is.nemanet</module>
 	<module>is.banking</module>
-	<module>is.mentor.vefthjonusta</module>
-	<module>is.idega.block.pki</module>
 	<module>is.idega.block.family</module>
 	<module>is.idega.block.nationalregister</module>
 	<module>com.idega.block.school</module>
@@ -64,25 +44,9 @@
 	<module>is.idega.nest.rafverk</module>
 	<module>com.idega.company</module>
     <module>is.idega.webservice</module>
-    <module>is.idega.idegaweb.egov.church</module>
     <module>is.idega.block.agresso</module>
-    <module>is.idega.idegaweb.egov.tenders</module>
-    <module>is.idega.idegaweb.egov.sweatshop</module>
-    <module>com.idega.volunteer</module>
-    <module>com.idega.municipality</module>
-    <module>com.idega.egov</module>
   </modules>
   
-  <scm>
-  	<!--
-    <connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
-    <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection> 
-     -->
-    <connection>scm:cvs:ext:idegaweb@code.idega.com:/idega/cvs:com.idega.block.egov/</connection>
-    <developerConnection>scm:cvs:ext:idegaweb@code.idega.com:/idega/cvs:com.idega.block.egov/</developerConnection>
-    <tag>4.1.3-SNAPSHOT</tag>
-  </scm>
-
   <dependencyManagement>
 	<dependencies>
 		<dependency>
@@ -111,25 +75,7 @@
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.afterschoolcare</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.afterschoolcare.rvk</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.application</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.blueprints</artifactId>
   		  <version>4.1.3-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
@@ -143,12 +89,6 @@
 	    	<groupId>com.idega.block.egov</groupId>
 	    	<artifactId>is.idega.idegaweb.egov.cases.focal</artifactId>
 	    	<version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.childcare</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
 	    <dependency>
@@ -171,18 +111,6 @@
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.course.weighers</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-              <groupId>com.idega.block.egov</groupId>
-                  <artifactId>is.idega.idegaweb.egov.course.adult</artifactId>
-                  <version>4.1.3-SNAPSHOT</version>
-              <type>jar</type>
-            </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.idegaweb.egov.fsk</artifactId>
   		  <version>4.1.3-SNAPSHOT</version>
 	      <type>jar</type>
@@ -201,36 +129,6 @@
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.musicschool</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.nest</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-          <groupId>com.idega.block.egov</groupId>
-          <artifactId>is.idega.idegaweb.egov.parking</artifactId>
-          <version>4.1.3-SNAPSHOT</version>
-          <type>jar</type>
-        </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.impra</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.school</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.mentor</artifactId>
   		  <version>4.1.3-SNAPSHOT</version>
 	      <type>jar</type>
@@ -238,18 +136,6 @@
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.nemanet</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.mentor.vefthjonusta</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.block.pki</artifactId>
   		  <version>4.1.3-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
@@ -303,31 +189,6 @@
 	    </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.schoolmeal</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.schoolmeal.rvk</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>is.idega.idegaweb.egov.childcare.rvk</artifactId>
-  		  <version>4.1.3-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
-	    <dependency>
-              <groupId>com.idega.block.egov</groupId>
-                  <artifactId>is.idega.idegaweb.egov.childcare.linna</artifactId>
-                  <version>4.1.3-SNAPSHOT</version>
-              <type>jar</type>
-            </dependency>
-
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.banking</artifactId>
   		  <version>4.1.3-SNAPSHOT</version>
 	      <type>jar</type>
@@ -362,46 +223,6 @@
             <version>4.1.3-SNAPSHOT</version>
             <type>jar</type>
         </dependency>
-	    <dependency>
-      		<groupId>com.idega.block.egov</groupId>
-      		<artifactId>is.idega.idegaweb.egov.church</artifactId>
-      		<version>4.1.3-SNAPSHOT</version>
-      		<type>jar</type>
-    	</dependency>
-    	<dependency>
-      		<groupId>com.idega.block.egov</groupId>
-      		<artifactId>is.idega.idegaweb.egov.tenders</artifactId>
-      		<version>4.1.3-SNAPSHOT</version>
-      		<type>jar</type>
-    	</dependency>
-    	<dependency>
-      		<groupId>com.idega.block.egov</groupId>
-      		<artifactId>is.idega.idegaweb.egov.sweatshop</artifactId>
-      		<version>4.1.3-SNAPSHOT</version>
-      		<type>jar</type>
-    	</dependency>    
-        <dependency>
-                <groupId>com.idega.block.egov</groupId>
-                <artifactId>is.idega.idegaweb.egov.gumbo</artifactId>
-                <version>4.1.3-SNAPSHOT</version>
-                <type>jar</type>
-        </dependency>
-        <dependency>
-      		<groupId>com.idega.block.egov</groupId>
-      		<artifactId>com.idega.volunteer</artifactId>
-      		<version>4.1.3-SNAPSHOT</version>
-      		<type>jar</type>
-    	</dependency>
-	    <dependency>
-	      <groupId>com.idega.block.egov</groupId>
-	      <artifactId>com.idega.municipality</artifactId>
-	      <version>4.1.3-SNAPSHOT</version>
-	    </dependency>
-	    <dependency>
-	    	<groupId>com.idega.block.egov</groupId>
-  			<artifactId>com.idega.egov</artifactId>
-  			<version>4.1.3-SNAPSHOT</version>
-	    </dependency>
 	</dependencies>
   </dependencyManagement>
 
