@@ -31,9 +31,6 @@
 [submodule "is.idega.idegaweb.egov.schoolmeal.rvk"]
 	path = is.idega.idegaweb.egov.schoolmeal.rvk
 	url = git@github.com:idega/is.idega.idegaweb.egov.schoolmeal.rvk.git
-[submodule "is.idega.idegaweb.egov.parking"]
-	path = is.idega.idegaweb.egov.parking
-	url = git@github.com:idega/is.idega.idegaweb.egov.parking.git
 [submodule "is.idega.idegaweb.egov.bpm"]
 	path = is.idega.idegaweb.egov.bpm
 	url = git@github.com:idega/is.idega.idegaweb.egov.bpm.git
