@@ -43,18 +43,25 @@
 	<module>is.idega.idegaweb.member</module>
 	<module>is.idega.nest.rafverk</module>
 	<module>com.idega.company</module>
+        <module>com.idega.xroad.service</module>
     <module>is.idega.webservice</module>
     <module>is.idega.block.agresso</module>
   </modules>
   
   <dependencyManagement>
 	<dependencies>
-		<dependency>
-	      <groupId>com.idega.block.egov</groupId>
-  		  <artifactId>com.idega.block.school</artifactId>
-  		  <version>5.0.0-SNAPSHOT</version>
-	      <type>jar</type>
-	    </dependency>
+            <dependency>
+                <groupId>com.idega.block.egov</groupId>
+                <artifactId>com.idega.xroad.service</artifactId>
+                <version>5.0.0-SNAPSHOT</version>
+                <type>jar</type>
+            </dependency>
+            <dependency>
+                <groupId>com.idega.block.egov</groupId>
+                <artifactId>com.idega.block.school</artifactId>
+                <version>5.0.0-SNAPSHOT</version>
+                <type>jar</type>
+            </dependency>
 	    <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.block.family</artifactId>
