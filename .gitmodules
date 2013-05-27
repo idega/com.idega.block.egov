@@ -79,3 +79,6 @@
 [submodule "is.nemanet"]
 	path = is.nemanet
 	url = git@github.com:idega/is.nemanet.git
+[submodule "com.idega.xroad.service"]
+	path = com.idega.xroad.service
+	url = git@github.com:idega/com.idega.xroad.service.git
