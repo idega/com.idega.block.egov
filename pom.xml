@@ -83,7 +83,7 @@
             <dependency>
               <groupId>com.idega.block.egov</groupId>
               <artifactId>com.idega.xroad.service</artifactId>
-              <version>4.1.3-SNAPSHOT</version>
+              <version>5.0.0-SNAPSHOT</version>
               <type>jar</type>
             </dependency>
 	    <dependency>
