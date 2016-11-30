@@ -16,9 +16,6 @@
 [submodule "is.idega.idegaweb.egov.bpm"]
 	path = is.idega.idegaweb.egov.bpm
 	url = git@github.com:idega/is.idega.idegaweb.egov.bpm.git
-[submodule "is.banking"]
-	path = is.banking
-	url = git@github.com:idega/is.banking.git
 [submodule "is.idega.idegaweb.egov.accounting"]
 	path = is.idega.idegaweb.egov.accounting
 	url = git@github.com:idega/is.idega.idegaweb.egov.accounting.git
