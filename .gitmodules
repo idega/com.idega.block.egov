@@ -58,9 +58,6 @@
 [submodule "is.idega.idegaweb.msi"]
 	path = is.idega.idegaweb.msi
 	url = git@github.com:idega/is.idega.idegaweb.msi.git
-[submodule "is.idega.idegaweb.egov.fsk"]
-	path = is.idega.idegaweb.egov.fsk
-	url = git@github.com:idega/is.idega.idegaweb.egov.fsk.git
 [submodule "is.idega.nest.rafverk"]
 	path = is.idega.nest.rafverk
 	url = git@github.com:idega/is.idega.nest.rafverk.git
