@@ -212,7 +212,7 @@
 	    </dependency>
         <dependency>
         	<groupId>com.idega.block.egov</groupId>
-            <artifactId>is.idega.webser5.0.0-SNAPSHOTvice</artifactId>
+            <artifactId>is.idega.webservice</artifactId>
             <version>${project.version}</version>
             <type>jar</type>
         </dependency>
