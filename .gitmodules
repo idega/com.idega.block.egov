@@ -76,3 +76,6 @@
 [submodule "com.idega.xroad.service"]
 	path = com.idega.xroad.service
 	url = git@github.com:idega/com.idega.xroad.service.git
+[submodule "com.idega.camunda"]
+	path = com.idega.camunda
+	url = git@github.com:idega/com.idega.camunda.git
