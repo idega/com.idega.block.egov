@@ -43,7 +43,6 @@
     <module>com.idega.xroad.service</module>
     <module>is.idega.webservice</module>
     <module>is.idega.block.agresso</module>
-	<module>com.idega.camunda</module>
   </modules>
   
   <dependencyManagement>
@@ -219,12 +218,6 @@
         <dependency>
         	<groupId>com.idega.block.egov</groupId>
             <artifactId>is.idega.block.agresso</artifactId>
-            <version>${project.version}</version>
-            <type>jar</type>
-        </dependency>
-        <dependency>
-        	<groupId>com.idega.block.egov</groupId>
-            <artifactId>com.idega.camunda</artifactId>
             <version>${project.version}</version>
             <type>jar</type>
         </dependency>
