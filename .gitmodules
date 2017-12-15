@@ -76,3 +76,6 @@
 [submodule "com.idega.xroad.service"]
 	path = com.idega.xroad.service
 	url = git@github.com:idega/com.idega.xroad.service.git
+[submodule "is.idega.block.pki"]
+	path = is.idega.block.pki
+	url = git@github.com:idega/is.idega.block.pki.git
