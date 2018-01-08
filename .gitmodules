@@ -79,3 +79,6 @@
 [submodule "is.idega.block.pki"]
 	path = is.idega.block.pki
 	url = git@github.com:idega/is.idega.block.pki.git
+[submodule "com.idega.saml.2.0.client"]
+	path = com.idega.saml.2.0.client
+	url = git@github.com:idega/com.idega.saml.2.0.client.git

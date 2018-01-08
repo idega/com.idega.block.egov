@@ -44,6 +44,7 @@
     <module>is.idega.webservice</module>
     <module>is.idega.block.agresso</module>
     <module>is.idega.block.pki</module>
+    <module>com.idega.saml.2.0.client</module>
   </modules>
   
   <dependencyManagement>
@@ -225,6 +226,12 @@
         <dependency>
 	      <groupId>com.idega.block.egov</groupId>
   		  <artifactId>is.idega.block.pki</artifactId>
+  		  <version>5.0.0-SNAPSHOT</version>
+	      <type>jar</type>
+	    </dependency>
+	    <dependency>
+	      <groupId>com.idega.block.egov</groupId>
+  		  <artifactId>com.idega.saml.2.0.client</artifactId>
   		  <version>5.0.0-SNAPSHOT</version>
 	      <type>jar</type>
 	    </dependency>
