@@ -1,9 +1,10 @@
-/bin/
+bin
+/.project
+/.classpath
 target
 .settings
+.classpath
+.project
 .DS_Store
-bin
-
-.project
-
-.project
+.externalToolBuilders
+maven-eclipse.xml
