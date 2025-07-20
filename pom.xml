@@ -51,12 +51,6 @@
 	<dependencies>
             <dependency>
                 <groupId>com.idega.block.egov</groupId>
-                <artifactId>com.idega.xroad.service</artifactId>
-                <version>${project.version}</version>
-                <type>jar</type>
-            </dependency>
-            <dependency>
-                <groupId>com.idega.block.egov</groupId>
                 <artifactId>com.idega.block.school</artifactId>
                 <version>${project.version}</version>
                 <type>jar</type>
